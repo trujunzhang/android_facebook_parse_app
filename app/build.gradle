@@ -25,4 +25,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:21.0.+'
 
     compile 'it.neokree:MaterialTabs:0.11'
+
+    compile 'com.facebook.android:facebook-android-sdk:4.1.0'
 }

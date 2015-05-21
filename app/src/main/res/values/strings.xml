@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Material Design</string>
+    <string name="facebook_app_id">831187616977516</string>
+    <string name="facebook_app_name">ParseChatApp</string>
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
     <string name="drawer_open">Open</string>
